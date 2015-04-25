@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/olynch/git/data_structures/assoc_array/c/src/assoc_array.c
+assoc_array.h
+/home/olynch/git/data_structures/assoc_array/c/src/assoc_array.h
+stdlib.h
+-
+string.h
+-
+
+/home/olynch/git/data_structures/assoc_array/c/src/assoc_array.h
+

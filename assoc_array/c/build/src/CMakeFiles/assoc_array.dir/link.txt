@@ -1,0 +1,2 @@
+/usr/bin/ar cr libassoc_array.a  CMakeFiles/assoc_array.dir/assoc_array.c.o
+/usr/bin/ranlib libassoc_array.a

@@ -1,0 +1,22 @@
+Start testing: Jan 20 17:00 EST
+----------------------------------------------------------
+1/1 Testing: test_assoc_array
+1/1 Test: test_assoc_array
+Command: "/home/olynch/git/data_structures/assoc_array/c/build/tests/test_assoc_array"
+Directory: /home/olynch/git/data_structures/assoc_array/c/build/tests
+"test_assoc_array" start time: Jan 20 17:00 EST
+Output:
+----------------------------------------------------------
+Running suite(s): assoc_array
+33%: Checks: 3, Failures: 1, Errors: 1
+/home/olynch/git/data_structures/assoc_array/c/tests/test_assoc_array.c:20:F:Core:test_HashMap_set_and_get_simple:0: Assertion 'HashMap_get(test_map, "spam")==32' failed: HashMap_get(test_map, "spam")==2, 32==32
+/home/olynch/git/data_structures/assoc_array/c/tests/test_assoc_array.c:27:E:Core:test_HashMap_set_and_get_many:0: (after this point) Received signal 11 (Segmentation fault)
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Failed.
+"test_assoc_array" end time: Jan 20 17:00 EST
+"test_assoc_array" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 20 17:00 EST

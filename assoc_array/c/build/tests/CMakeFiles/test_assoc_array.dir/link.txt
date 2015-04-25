@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/test_assoc_array.dir/test_assoc_array.c.o  -o test_assoc_array -rdynamic ../src/libassoc_array.a -lcheck 

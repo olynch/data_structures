@@ -1,0 +1,2 @@
+/home/olynch/git/data_structures/assoc_array/c/build/src/CMakeFiles/assoc_array.dir
+/home/olynch/git/data_structures/assoc_array/c/build/tests/CMakeFiles/test_assoc_array.dir

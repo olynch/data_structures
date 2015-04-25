@@ -1,0 +1,3 @@
+test_assoc_array 1 0
+---
+test_assoc_array
